@@ -1,0 +1,3 @@
+[submodule "submodule-tf"]
+	path = submodule-tf
+	url = https://github.com/Ezmalts/submodule-tf
